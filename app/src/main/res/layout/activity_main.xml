@@ -36,7 +36,6 @@
                     android:id="@+id/titleText"
                     android:layout_width="wrap_content"
                     android:background="#B0C4DE"
-                    android:gravity="fill_horizontal"
                     android:padding="50dp"
                     android:text="@string/titleText"
                     android:textAlignment="center"
