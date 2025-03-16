@@ -5,6 +5,6 @@
     <string name="cabinDescriptions">Enjoy you stay at our luxurious cabin resort. You have a choice of two cabins. The Standard Cabin offers everything you need and more. The Upgraded Cabin offers everything included in the standard plus a lake view.</string>
     <string name="standardRadioButton">Standard Cabin</string>
     <string name="upgradedCabinButton">Upgraded Cabin</string>
-    <string name="cabinSelectionText">Select Your Cabin</string>
+    <string name="cabinSelectionText">Select Your Cabin:</string>
     <string name="scheduleButton">SCHEDULE YOUR STAY</string>
 </resources>
