@@ -77,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
 
             String dateRange = "Your reservation at the " + selectedCabin + " cabin is from " + firstNight + " to " + thirdNightStr;
 
+
             confirmation.setText(dateRange);
         }
     };
